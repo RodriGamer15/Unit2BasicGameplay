@@ -949,7 +949,7 @@ GameObject:
   - component: {fileID: 3692342878695787660}
   - component: {fileID: 9128299507654106964}
   - component: {fileID: 5115701216631431359}
-  - component: {fileID: 6071310698868817945}
+  - component: {fileID: 4029891914932335923}
   m_Layer: 0
   m_Name: Animal_Fox_01
   m_TagString: Animal
@@ -982,7 +982,7 @@ Transform:
   - {fileID: 5077031609559863221}
   - {fileID: 6994665958186400800}
   - {fileID: 3048875848807389396}
-  - {fileID: 2926796274349315236}
+  - {fileID: 5033594121751171688}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!95 &2437996672193832968
@@ -1064,7 +1064,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1750f27540a8f334e8a58ff114b4a8bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &6071310698868817945
+--- !u!114 &4029891914932335923
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1076,7 +1076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecb32f01849d953478a1a19a9e7bfb02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hungerSlider: {fileID: 6286956596319316953}
+  hungerSlider: {fileID: 6300098606949674771}
   amountToBeFed: 1
 --- !u!1 &7168539634158267500
 GameObject:
@@ -1264,14 +1264,14 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 91e50a2451dc2c44d85cddea92a06175, type: 3}
---- !u!224 &2926796274349315236 stripped
+--- !u!224 &5033594121751171688 stripped
 RectTransform:
-  m_CorrespondingSourceObject: {fileID: 2572938227240239956, guid: 91e50a2451dc2c44d85cddea92a06175, type: 3}
+  m_CorrespondingSourceObject: {fileID: 5688067446168323480, guid: 91e50a2451dc2c44d85cddea92a06175, type: 3}
   m_PrefabInstance: {fileID: 804728282064525296}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &6286956596319316953 stripped
+--- !u!114 &6300098606949674771 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6635273041473698857, guid: 91e50a2451dc2c44d85cddea92a06175, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6648591053421132003, guid: 91e50a2451dc2c44d85cddea92a06175, type: 3}
   m_PrefabInstance: {fileID: 804728282064525296}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
